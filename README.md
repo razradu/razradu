@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @razradu
 - 👀 I’m interested in blockchain and 3D / games development
-- 🌱 I’m currently learning blockchain
-- 💞️ I’m looking to collaborate on blockchain (Cardano)
+- 🌱 I’m currently learning blockchain, python and web development
+- 💞️ I’m looking to collaborate on blockchain
 - 📫 How to reach me razradu@gmail.com
 
 <!---
